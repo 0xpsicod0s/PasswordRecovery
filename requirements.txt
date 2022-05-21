@@ -1,0 +1,4 @@
+pywin32
+pysqlite3
+pycrypto
+shutil
